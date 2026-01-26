@@ -9,7 +9,7 @@ The project is divided into two main sections:
 * **🧪 Technical Labs:** Practical exercises to apply and test new language features and syntax learned throughout this level.
 * **🧠 Problem Solving:** A collection of logical challenges and problems that focus on improving analytical thinking and code implementation skills for Level 3.
 
-## 🎯 Current Focus
+## 🎯 Current Focus 
 In this level, I am working on:
 - Breaking down multi-step problems into clear logical parts.
 - Practicing more efficient ways to handle data and string manipulation.
